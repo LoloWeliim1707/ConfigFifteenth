@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "configfifteenth",
+  "version": "${version}",
+  "name": "ConfigFifteenth",
+  "description": "Configuration library for Fabric mods.",
+  "authors": ["lolo_weliim"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/configfifteenth/icon.png",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
